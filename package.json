@@ -12,5 +12,8 @@
     "@babel/core": "7.2.0",
     "typescript": "4.4.4",
     "vite": "^7.1.2"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
